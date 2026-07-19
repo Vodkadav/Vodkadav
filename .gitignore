@@ -1,0 +1,6 @@
+.claude/audit.log
+.claude/decision-audit.jsonl
+.claude/worktrees/
+.claude/decisions/
+.claude/sentinel-reports/
+.playwright-mcp/
