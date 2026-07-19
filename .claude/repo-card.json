@@ -1,0 +1,5 @@
+{
+  "description": "GitHub profile landing README — a curated index of Daniel Machado's public work, rendered on the GitHub profile page.",
+  "install": ["# GitHub profile README — nothing to install."],
+  "run": ["# Renders automatically on the GitHub profile page."]
+}
